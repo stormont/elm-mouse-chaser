@@ -61,6 +61,7 @@ mousePositions =
     Mouse.position  -- Updates given by mouse position changes.
 
 
+main : Signal Element
 main =
   Signal.map2          -- Map two signals together...
     view               -- ... through the view function.
