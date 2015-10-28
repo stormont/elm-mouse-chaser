@@ -15,4 +15,4 @@ To run it locally:
 
 Then, open **demo.html** in your web browser.
 
-For a walkthrough, [see my blog post]().
+For a walkthrough, [see my blog post](https://voyageintech.wordpress.com/2015/10/28/mouse-chasing-in-elm-beginners/).
